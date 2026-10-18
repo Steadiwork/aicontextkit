@@ -1,0 +1,16 @@
+# Context Kit
+> Guides for making AI assistants (ChatGPT, Claude, Gemini, Grok) remember who you are using one personal context file.
+
+## Guides
+- [Home](https://steadiwork.github.io/aicontextkit/): what a context file is and the universal paste method
+- [ChatGPT](https://steadiwork.github.io/aicontextkit/chatgpt.html): Custom Instructions, Memory, Projects
+- [Claude](https://steadiwork.github.io/aicontextkit/claude.html): Instructions for Claude, Projects, Memory
+- [Gemini](https://steadiwork.github.io/aicontextkit/gemini.html): Instructions for Gemini, Gems and skills
+- [Grok](https://steadiwork.github.io/aicontextkit/grok.html): custom instructions (steps unverified)
+- [FAQ](https://steadiwork.github.io/aicontextkit/faq.html)
+- [Why ChatGPT isn't remembering you](https://steadiwork.github.io/aicontextkit/chatgpt-not-remembering.html): memory settings, temporary chat, projects
+- [Claude Projects](https://steadiwork.github.io/aicontextkit/claude-projects.html): project instructions, knowledge base, per-project memory
+
+## Products
+- [Free Mini Context Card](https://steadiwork.gumroad.com/l/zwoyz)
+- [Full Context Kit, pay what you want, $19 suggested](https://steadiwork.gumroad.com/l/isxnkl)

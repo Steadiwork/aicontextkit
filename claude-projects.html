@@ -1,0 +1,36 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Claude Projects explained: instructions, knowledge and memory</title><meta name="description" content="How Claude Projects keep context across chats: project instructions, knowledge uploads and per-project memory, based on Anthropic&#x27;s help docs."><link rel="canonical" href="https://steadiwork.github.io/aicontextkit/claude-projects.html"><meta name="theme-color" content="#4f46e5">
+<meta property="og:title" content="Claude Projects explained: instructions, knowledge and memory"><meta property="og:description" content="How Claude Projects keep context across chats: project instructions, knowledge uploads and per-project memory, based on Anthropic&#x27;s help docs."><meta property="og:url" content="https://steadiwork.github.io/aicontextkit/claude-projects.html">
+<link rel="stylesheet" href="style.css"></head><body><header class="nav"><div class="in"><a class="brand" href="index.html"><span class="logo">CK</span>Context Kit</a><a class="l" href="chatgpt.html">ChatGPT</a><a class="l" href="claude.html">Claude</a><a class="l" href="gemini.html">Gemini</a><a class="l" href="grok.html">Grok</a><a class="l" href="faq.html">FAQ</a><a class="buy" href="https://steadiwork.gumroad.com/l/isxnkl">Get the kit</a></div></header>
+<main><h1>How Claude Projects keep your context</h1><p>If you want Claude to stop starting from zero on a recurring piece of work, a <strong>Project</strong> is the workspace for it. Here's how Projects differ from account-wide Instructions for Claude, what actually carries from chat to chat, and where to put a personal context file, based on Anthropic's help pages.</p>
+<p class="note">Projects are available to all Claude users, including Free. Free accounts can create up to 5 projects. Menus change; treat setting names as signposts.</p>
+<h2>Projects vs Instructions for Claude</h2><p><strong>Instructions for Claude</strong> (in Settings) apply to <em>every</em> conversation on your account. Use them for standing preferences: how you like answers, terms you use often, and general rules.</p>
+<p><strong>Project instructions</strong> apply only inside that project. Anthropic recommends them when you need project-specific context, a particular workflow, task requirements, or a role Claude should play in that workspace.</p>
+<p>You can use both. Put "who I am and how I like answers" in Instructions for Claude, and put "what this project is for" in the project's own instructions.</p>
+<h2>Create a project</h2><ol>
+<li>Open <strong>Projects</strong> in the left side of your account, or go to <a href="https://claude.ai/projects">claude.ai/projects</a>.</li>
+<li>Click <strong>+ New Project</strong>.</li>
+<li>Give it a name and description. Claude does <strong>not</strong> see the name or description, so put anything Claude must know into instructions or knowledge instead.</li>
+<li>On Team or Enterprise plans, choose whether the project stays private or is shared with your organization.</li></ol>
+<h2>What actually carries across chats</h2><p>Anthropic is explicit: <strong>context is not shared across chats inside a project</strong> unless you add it to the project knowledge base. A long chat's details do not automatically become available in the next chat in the same project.</p>
+<p>To make something stick for every chat in the project:</p>
+<ol><li>On the project's main page, use the knowledge panel on the right.</li>
+<li>Click <strong>+</strong> and upload documents, text files or code snippets Claude should always have.</li>
+<li>Click <strong>Set project instructions</strong>, write how Claude should behave in this project, and save.</li></ol>
+<p>On paid plans, when project knowledge nears the context-window limit, Claude can switch into RAG mode to expand capacity.</p>
+<h2>Project memory (separate from other projects)</h2><p>Memory is on by default for Free, Pro and Max on web, desktop and mobile (Team and Enterprise need an owner to enable it). Each project has its <strong>own</strong> memory:</p><ul>
+<li>Inside a project, Claude can use that project's memory plus your memory from chats outside projects.</li>
+<li>It does <strong>not</strong> use memory from other projects.</li>
+<li>New memories made in the project are saved to the project. With memory on, Claude may also reference them in chats outside projects.</li>
+<li>To keep a project's memory fully separate, turn off <strong>Use account memory</strong> under Memory on the project's page.</li>
+<li>To skip memory for one chat, turn off <strong>Memory</strong> in the <strong>+</strong> menu before your first message.</li></ul>
+<h2>Where to put your context file</h2><ol>
+<li><strong>Short version</strong> → Instructions for Claude (account-wide), so every chat knows who you are.</li>
+<li><strong>Full version</strong> → upload into the project's knowledge, and summarize the project-specific rules in <strong>Set project instructions</strong>.</li>
+<li>For a one-off chat outside a project, paste the universal line plus your file at the start of the chat (see the <a href="claude.html">Claude setup guide</a>).</li></ol>
+<pre>Here is my personal context file. Read it and use it for everything in this chat. You don't need to summarize it back to me. Just reply "Got it" and wait for my first request.
+
+[paste your context file here]</pre>
+<p>Source: Anthropic Claude Help Center, <a href="https://support.claude.com/en/articles/9519177-how-can-i-create-and-manage-projects">How can I create and manage projects?</a> and <a href="https://support.claude.com/en/articles/10185728-understanding-claude-s-personalization-features">Understanding Claude's personalization features</a>.</p><div class="cta"><strong>Start free in 10 minutes.</strong> Grab the free Mini Context Card: a one-page fill-in sheet to write your first context file.<br>
+<a class="btn s" href="https://steadiwork.gumroad.com/l/zwoyz">Get the free card</a><a class="btn s" href="https://steadiwork.gumroad.com/l/isxnkl">Full Context Kit ($19 suggested)</a>
+<small>The full kit includes a fill-in template, a worked example, a step-by-step setup guide for ChatGPT, Claude, Gemini and Grok, plus interview and monthly-refresh prompts.</small></div></main><footer><div class="fl"><a href="index.html">Home</a><a href="chatgpt.html">ChatGPT</a><a href="claude.html">Claude</a><a href="gemini.html">Gemini</a><a href="grok.html">Grok</a><a href="faq.html">FAQ</a></div><p>Context Kit. AI apps change their menus often; treat setting names as signposts. Not affiliated with OpenAI, Anthropic, Google or xAI.<br>Sister site: <a href="https://aisupplychainbrief.surge.sh/">AI Supply Chain Brief</a>, a free weekday AI news brief for supply chain teams.</p></footer></body></html>

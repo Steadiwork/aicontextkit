@@ -11,6 +11,7 @@
 - [Why ChatGPT isn't remembering you](https://steadiwork.github.io/aicontextkit/chatgpt-not-remembering.html): memory settings, temporary chat, projects
 - [Claude Projects](https://steadiwork.github.io/aicontextkit/claude-projects.html): project instructions, knowledge base, per-project memory
 - [Does Gemini remember past chats?](https://steadiwork.github.io/aicontextkit/gemini-remember-past-chats.html): Memory setting, requirements, correcting and deleting
+- [Does Claude remember past conversations?](https://steadiwork.github.io/aicontextkit/claude-remember-past-chats.html): memory vs chat search, plans, editing and deleting memory, incognito
 
 ## Products
 - [Free Mini Context Card](https://steadiwork.github.io/aicontextkit/free-context-card.html): what the free one-page card is, what's inside, how to use it (download: https://steadiwork.gumroad.com/l/zwoyz)

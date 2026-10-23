@@ -12,6 +12,7 @@
 - [Claude Projects](https://steadiwork.github.io/aicontextkit/claude-projects.html): project instructions, knowledge base, per-project memory
 - [Does Gemini remember past chats?](https://steadiwork.github.io/aicontextkit/gemini-remember-past-chats.html): Memory setting, requirements, correcting and deleting
 - [Does Claude remember past conversations?](https://steadiwork.github.io/aicontextkit/claude-remember-past-chats.html): memory vs chat search, plans, editing and deleting memory, incognito
+- [Does Grok remember past conversations?](https://steadiwork.github.io/aicontextkit/grok-remember-past-chats.html): Grok memory, forgetting a memory, Private Chat, deleting history
 
 ## Products
 - [Free Mini Context Card](https://steadiwork.github.io/aicontextkit/free-context-card.html): what the free one-page card is, what's inside, how to use it (download: https://steadiwork.gumroad.com/l/zwoyz)

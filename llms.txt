@@ -14,6 +14,7 @@
 - [Does Claude remember past conversations?](https://steadiwork.github.io/aicontextkit/claude-remember-past-chats.html): memory vs chat search, plans, editing and deleting memory, incognito
 - [Does Grok remember past conversations?](https://steadiwork.github.io/aicontextkit/grok-remember-past-chats.html): Grok memory, forgetting a memory, Private Chat, deleting history
 - [How ChatGPT Projects work](https://steadiwork.github.io/aicontextkit/chatgpt-projects.html): project instructions, files, default vs project-only memory, limits by plan
+- [Are custom GPTs going away?](https://steadiwork.github.io/aicontextkit/chatgpt-custom-gpts-retiring.html): Dec 11, 2026 retirement, migrating to plugins, what transfers, keeping your instructions
 
 ## Products
 - [Free Mini Context Card](https://steadiwork.github.io/aicontextkit/free-context-card.html): what the free one-page card is, what's inside, how to use it (download: https://steadiwork.gumroad.com/l/zwoyz)

@@ -17,6 +17,7 @@
 - [Are custom GPTs going away?](https://steadiwork.github.io/aicontextkit/chatgpt-custom-gpts-retiring.html): Dec 11, 2026 retirement, migrating to plugins, what transfers, keeping your instructions
 - [Are Gemini Gems going away?](https://steadiwork.github.io/aicontextkit/gemini-gems-to-skills.html): Gems to skills transition dates, what carries over, files that don't, moving a Gem yourself
 - [What happened to Claude Styles?](https://steadiwork.github.io/aicontextkit/claude-styles-to-skills.html): custom styles migrating to skills, slash commands, the Learning skill, using Instructions for Claude instead
+- [How to move your ChatGPT memory to Claude](https://steadiwork.github.io/aicontextkit/claude-import-memory.html): Claude memory import, the export prompt, what Claude keeps, exporting Claude memory
 
 ## Products
 - [Free Mini Context Card](https://steadiwork.github.io/aicontextkit/free-context-card.html): what the free one-page card is, what's inside, how to use it (download: https://steadiwork.gumroad.com/l/zwoyz)

@@ -20,6 +20,7 @@
 - [How to move your ChatGPT memory to Claude](https://steadiwork.github.io/aicontextkit/claude-import-memory.html): Claude memory import, the export prompt, what Claude keeps, exporting Claude memory
 - [What does ChatGPT remember about me?](https://steadiwork.github.io/aicontextkit/chatgpt-what-it-remembers.html): memory summary, Sources, correcting memory, Don't mention this again vs deleting, fully removing something
 - [How to change ChatGPT's personality](https://steadiwork.github.io/aicontextkit/chatgpt-personality.html): Base style and tone presets, Characteristics (warm, enthusiastic, headers and lists, emojis), why it gets overridden, personality vs custom instructions
+- [What is a temporary chat in ChatGPT?](https://steadiwork.github.io/aicontextkit/chatgpt-temporary-chat.html): Personalized vs Unpersonalized, memory and custom instructions, saving to history, model training, 30-day safety copy
 
 ## Products
 - [Free Mini Context Card](https://steadiwork.github.io/aicontextkit/free-context-card.html): what the free one-page card is, what's inside, how to use it (download: https://steadiwork.gumroad.com/l/zwoyz)

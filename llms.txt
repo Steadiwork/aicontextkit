@@ -23,6 +23,7 @@
 - [What is a temporary chat in ChatGPT?](https://steadiwork.github.io/aicontextkit/chatgpt-temporary-chat.html): Personalized vs Unpersonalized, memory and custom instructions, saving to history, model training, 30-day safety copy
 - [What is a temporary chat in Gemini?](https://steadiwork.github.io/aicontextkit/gemini-temporary-chat.html): who can use it, how to start one, what you can't do (Gems, Connected Apps, personalization), 72-hour retention, model training, vs Keep Activity
 - [How to move your ChatGPT or Claude memory to Gemini](https://steadiwork.github.io/aicontextkit/gemini-import-memory.html): Gemini memory import prompt, importing ChatGPT or Claude chat history as a .zip (5 GB, 5 per day), who can use it, deleting imports, how Google uses imported data
+- [Does Microsoft Copilot remember you?](https://steadiwork.github.io/aicontextkit/copilot-memory.html): saved memories, custom instructions, chat history inferences (30-day deletion), turning memory off vs deleting, what work-account admins control
 
 ## Products
 - [Free Mini Context Card](https://steadiwork.github.io/aicontextkit/free-context-card.html): what the free one-page card is, what's inside, how to use it (download: https://steadiwork.gumroad.com/l/zwoyz)
